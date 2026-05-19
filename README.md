@@ -13,33 +13,6 @@ A lightweight JavaFX desktop app that calculates your **BMR** and **TDEE** based
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Java 11+
-- JavaFX SDK
-
-### Run
-
-```bash
-javac --module-path /path/to/javafx/lib --add-modules javafx.controls GUI.java
-java --module-path /path/to/javafx/lib --add-modules javafx.controls GUI
-```
-
----
-
-## Activity Levels
-
-| Level | Multiplier |
-|---|---|
-| Sedentary | 1.2 |
-| Light | 1.375 |
-| Moderate | 1.55 |
-| Heavy | 1.725 |
-| Athlete | 1.9 |
-
----
-
 ## Tech
 
 - Java + JavaFX
